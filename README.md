@@ -246,9 +246,7 @@ This is a learning project. Feel free to:
 
 This project is for educational purposes.
 
-## Author
 
-Created as part of Cognizant campus project / Java learning journey.
 
 ---
 
